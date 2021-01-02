@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/background7"
+    android:layout_height="match_parent"
+    tools:context=".About">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/ToolbarDeveloper"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/background1"
+        app:titleTextColor="@color/white">
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/facultyTop"
+        android:layout_below="@+id/ToolbarDeveloper"
+        android:background="@color/background1">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivProfilePic"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            app:civ_border_width="2dp"
+            app:civ_border_color="@color/white"
+            android:outlineAmbientShadowColor="@color/black"
+            android:outlineSpotShadowColor="@color/black"
+            android:elevation="15dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/developer">
+
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <TextView
+            android:id="@+id/tvFacultySelName"
+            android:layout_width="147dp"
+            android:layout_height="76dp"
+            android:layout_below="@+id/ivProfilePic"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/alegreya"
+            android:gravity="center_horizontal"
+            android:text="Murali Jha"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp">
+
+        </TextView>
+    </RelativeLayout>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/profile"
+        android:id="@+id/CardView1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/facultyTop"
+        android:layout_marginTop="10dp"
+        android:elevation="8dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvPhoneNumberLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/alegreya_sc"
+                android:text="Phone Number"
+                android:textColor="@android:color/secondary_text_light"
+                android:textSize="24sp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:id="@+id/line"
+                android:background="@color/background1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@+id/tvPhoneNumberLabel">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvPhoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:text="6302892042"
+                android:textIsSelectable="true"
+                android:textSize="20sp">
+
+            </TextView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/CardView2"
+        android:layout_height="wrap_content"
+        android:background="@color/profile"
+        android:layout_below="@+id/CardView1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:elevation="8dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvEmailLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/alegreya"
+                android:text="Email"
+                android:textColor="@android:color/secondary_text_light"
+                android:textSize="24sp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:id="@+id/line1"
+                android:background="@color/background1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@+id/tvEmailLabel">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvProfileEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:text="murali.jha.19cse@bmu.edu.in"
+                android:textIsSelectable="true"
+                android:textSize="20sp">
+
+            </TextView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/CardView3"
+        android:layout_height="wrap_content"
+        android:background="@color/profile"
+        android:layout_below="@+id/CardView2"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:elevation="8dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvInstaLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/alegreya"
+                android:text="Instagram"
+                android:textColor="@android:color/secondary_text_light"
+                android:textSize="24sp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:id="@+id/line2"
+                android:background="@color/background1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@+id/tvInstaLabel">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvProfileInsta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:text="https://www.instagram.com/imuralijha"
+                android:textIsSelectable="true"
+                android:textSize="20sp">
+
+            </TextView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="200dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"
+                android:text="________">
+
+            </TextView>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

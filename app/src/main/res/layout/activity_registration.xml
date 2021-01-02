@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper2"
+    tools:context=".RegistrationActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvSup"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/tvRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Register:"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="30sp" />
+
+            <LinearLayout
+                android:id="@+id/line5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvRegister"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/ivProfile"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_marginLeft="80dp"
+                        android:layout_marginRight="80dp"
+                        android:elevation="15dp"
+                        android:outlineAmbientShadowColor="@color/black"
+                        android:outlineSpotShadowColor="@color/black"
+                        android:src="@drawable/pp"
+                        app:civ_border_color="@color/white"
+                        app:civ_border_width="1.5dp">
+
+                    </de.hdodenhof.circleimageview.CircleImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="40dp"
+                        android:fontFamily="sans-serif-light"
+                        android:text="Username "
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_light_background"
+                        android:textSize="15sp" />
+
+                    <EditText
+                        android:id="@+id/etUsername"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/et_bg"
+                        android:fontFamily="sans-serif-light"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="@color/white" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:fontFamily="sans-serif-light"
+                        android:text="Email"
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_light_background"
+                        android:textSize="15sp" />
+
+                    <EditText
+                        android:id="@+id/etUserEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/et_bg"
+                        android:fontFamily="sans-serif-light"
+                        android:inputType="textEmailAddress"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="@color/white" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="New Password"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <EditText
+                            android:id="@+id/etUserPassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="textPassword"
+                            android:paddingLeft="15dp"
+                            android:paddingRight="15dp"
+                            android:textColor="@color/white" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="Semester"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <EditText
+                            android:id="@+id/etSemester"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:fontFamily="sans-serif-light"
+                            android:inputType="number"
+                            android:paddingLeft="15dp"
+                            android:paddingRight="15dp"
+                            android:textColor="@color/white" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="University"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <Spinner
+                            android:id="@+id/spinner4"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:paddingLeft="8dp"
+                            android:paddingRight="8dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="Branch"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <Spinner
+                            android:id="@+id/spinner1"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:paddingLeft="8dp"
+                            android:paddingRight="8dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="Academic Year"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <Spinner
+                            android:id="@+id/spinner2"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:paddingLeft="8dp"
+                            android:paddingRight="8dp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="Section"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <Spinner
+                            android:id="@+id/spinner3"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:paddingLeft="8dp"
+                            android:paddingRight="8dp" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_below="@+id/line5"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/btn_bg"
+                android:fontFamily="sans-serif-medium"
+                android:paddingLeft="70dp"
+                android:paddingRight="70dp"
+                android:text="Register"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="18dp"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvUserLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif"
+            android:textAllCaps="true"
+            android:layout_centerHorizontal="true"
+            android:text="Already Registered?Login"/>
+
+    </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grad_bg"
+    tools:context=".FeedbackActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/ToolbarFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        app:titleTextColor="@color/white"
+        android:background="@color/background1">
+
+    </androidx.appcompat.widget.Toolbar>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_below="@+id/ToolbarAboutUs"
+            android:layout_marginTop="15dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="354dp"
+                android:layout_height="99dp"
+                android:text='Your feedback are always welcome and it means alot. And for sure we will take actions to solve your problems.Please send email to "murali.jha.19cse@bmu.edu.in"'
+                android:textColor="@color/cardview_light_background"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.438"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.099" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_below="@+id/ToolbarAboutUs"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/etFeedbackUsername"
+                android:layout_width="351dp"
+                android:layout_height="50dp"
+                android:background="@drawable/et_bg"
+                android:ems="10"
+                android:hint=" Username*"
+                android:inputType="textPersonName"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/email"
+               android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_below="@+id/ToolbarAboutUs"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/etFeedbackEmail"
+                android:layout_width="351dp"
+                android:layout_height="50dp"
+                android:background="@drawable/et_bg"
+                android:ems="10"
+                android:hint=" Email*"
+                android:inputType="textEmailAddress"
+                android:textColorHint="@color/email"
+                android:textColor="@color/white"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+
+            android:layout_centerHorizontal="true"
+                />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_below="@+id/ToolbarAboutUs"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/etFeedback"
+                android:layout_width="351dp"
+                android:layout_height="50dp"
+                android:background="@drawable/et_bg"
+                android:ems="10"
+                android:hint=" Feedback*"
+                android:inputType="textPersonName"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/email"
+                android:layout_centerHorizontal="true"
+                />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_below="@+id/ToolbarAboutUs"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/SendFeedback"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg"
+                android:text="Send"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:layout_centerHorizontal="true"
+                />
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

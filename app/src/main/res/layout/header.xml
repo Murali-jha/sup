@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/background1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:gravity="bottom"
+        android:layout_marginBottom="10dp"
+
+        android:layout_height="match_parent"
+
+        >
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            app:civ_border_width="2dp"
+            app:civ_border_color="@color/white"
+            android:outlineAmbientShadowColor="@color/black"
+            android:outlineSpotShadowColor="@color/black"
+            android:elevation="15dp"
+            android:id="@+id/ivp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/lord_ganesh">
+
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <TextView
+            android:id="@+id/tvp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:text="SUP!"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    </LinearLayout>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

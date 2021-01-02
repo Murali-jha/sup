@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:animateLayoutChanges="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper2"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvSup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="SUP!"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+
+        <RelativeLayout
+            android:id="@+id/rellay1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_below="@+id/tvSup">
+
+            <TextView
+                android:id="@+id/tvLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Login"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="30sp" />
+
+            <LinearLayout
+                android:id="@+id/line4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvLogin"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-light"
+                        android:text="Email"
+                        android:textAllCaps="true"
+                        android:textColor="@color/cardview_light_background"
+                        android:textSize="15sp" />
+
+                    <EditText
+                        android:id="@+id/etName"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="10dp"
+                        android:inputType="textEmailAddress"
+                        android:background="@drawable/et_bg"
+                        android:fontFamily="sans-serif-light"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="@color/white" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="Password"
+                            android:textAllCaps="true"
+                            android:textColor="@color/cardview_light_background"
+                            android:textSize="15sp" />
+
+                        <EditText
+                            android:id="@+id/etPassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/et_bg"
+                            android:fontFamily="sans-serif-light"
+                            android:paddingLeft="15dp"
+                            android:inputType="textPassword"
+                            android:paddingRight="15dp"
+                            android:textColor="@color/white" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <Button
+                android:layout_width="wrap_content"
+                android:id="@+id/btnlogin"
+                android:layout_height="40dp"
+                android:text="Login"
+                android:textColor="@color/white"
+                android:fontFamily="sans-serif-medium"
+                android:paddingLeft="70dp"
+                android:paddingRight="70dp"
+                android:layout_centerHorizontal="true"
+                android:textSize="16sp"
+
+                android:textAllCaps="false"
+                android:background="@drawable/btn_bg"
+                android:layout_below="@+id/line4"
+                android:layout_marginTop="20dp"/>
+            <TextView
+                android:id="@+id/tvinfo"
+                android:layout_below="@+id/btnlogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="sans-serif-light"
+                android:textSize="16sp"
+                android:layout_marginTop="20dp"
+                android:text="Attempts Remaining : "/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/rellay2"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="18dp"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif"
+            android:textAllCaps="true"
+            android:layout_alignParentLeft="true"
+            android:text="New User?Register"/>
+        <TextView
+            android:id="@+id/tvForgotPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif"
+            android:textAllCaps="true"
+            android:layout_alignParentRight="true"
+            android:text="Forgot Password?"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_classroom.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_classroom.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_assignment.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_classroom.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_classroom.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_timetable.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\timetable.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ac1.jpeg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\ac1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_updateprofile.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\btn_updateprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subject_details.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_subject_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calender.jpg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\calender.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_subject_single_item.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\subject_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calender1.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\calender1.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\alegreya.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grad_bg.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\grad_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_week_single_item.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_week_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_assignment.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_day_detail.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_day_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_classroom.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_classroom.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.JPG.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\play.JPG"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shape.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_assignment.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_biryani.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\biryani.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_assignment.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_board.jpg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\board.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_classroom.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_classroom.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_developer.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_developer.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dp.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_alike.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\alike.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profileicon.webp.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\profileicon.webp"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_padauk.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\padauk.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_bg.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rate.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\rate.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_allerta.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\allerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_day_detail_single_item.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\day_detail_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_developer.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallpaper2.jpeg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\wallpaper2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_invite.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\invite.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pp.jpg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_athiti_medium.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\athiti_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_developer.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_assignment.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book1.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\book1.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_academic.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_academic.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya_sc.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\alegreya_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_assignment.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_logout.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_classroom.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_classroom.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_developer.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subject.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_armata.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\armata.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_spinner.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_developer.jpeg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\developer.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_profile.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_update.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\btn_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ac3.jpeg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\ac3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_developer.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya_sans_sc_thin.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\alegreya_sans_sc_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_developer.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu2.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\menu\\menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aboutus.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\aboutus.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_week.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_details.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_faculty_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_developer.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_developer.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_assignment.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedbackicon.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\feedbackicon.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_timetable1.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\timetable1.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_developer1.webp.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\developer1.webp"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu1.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\menu\\menu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_subject_details_single_item.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\subject_details_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ac2.jpeg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\ac2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_dropdown.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\custom_layout_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_aladin.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_advent_pro.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\advent_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_classroom.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_classroom.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profilepic.jpg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable-v24\\profilepic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_advent_pro_thin.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\advent_pro_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lord_ganesh.jpg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable-v24\\lord_ganesh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_faculty_single_item.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\faculty_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\font_cousine.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\font\\cousine.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_classroom.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_classroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dp.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spicon.jpeg.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\drawable\\spicon.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aboutus.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\activity_aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity_single_item.xml.flat",
+        "source": "C:\\Users\\MURALI JHA\\AndroidStudioProjects\\SUP\\app\\src\\main\\res\\layout\\main_activity_single_item.xml"
+    }
+]

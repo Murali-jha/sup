@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorAccent"
+    app:cardCornerRadius="6dp"
+    android:elevation="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/tvSubjectDayDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="14dp"
+
+            android:fontFamily="@font/alegreya"
+            android:text="Subject"
+            android:textColor="@android:color/secondary_text_light"
+            android:textSize="22sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/tvTimeDayDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tvSubjectDayDetails"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="5dp"
+
+            android:layout_marginEnd="13dp"
+            android:layout_marginRight="13dp"
+            android:fontFamily="sans-serif"
+            android:text="Time">
+
+        </TextView>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

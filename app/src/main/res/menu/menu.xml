@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profileicon"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/aboutus"
+        android:title="About us"/>
+    <item
+        android:id="@+id/developer"
+        android:icon="@drawable/developer1"
+        android:title="Developer"/>
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/feedbackicon"
+        android:title="FeedBack"/>
+    <item
+        android:id="@+id/Invite"
+        android:icon="@drawable/invite"
+        android:title="Invite Friend"/>
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/rate"
+        android:title="Rate the app"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_exit"
+        android:title="Exit"/>
+    <item
+    android:id="@+id/logout"
+    android:icon="@drawable/ic_logout"
+    android:title="Logout"/>
+
+</menu>

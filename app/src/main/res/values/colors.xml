@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightViolet">#FFC2EDFB</color>
+    <color name="profile">#FF009688</color>
+    <color name="black">#FF08070B</color>
+    <color name="background1">#272626</color>
+    <color name="background2">#191970</color>
+    <color name="background3">#00008B</color>
+    <color name="background4">#4B0082</color>
+    <color name="background5">#800080</color>
+    <color name="background6">#FFFFFF</color>
+    <color name="background7">#FFFFFF</color>
+    <color name="background8">#919091</color>
+    <color name="gradient_start">#272626</color>
+    <color name="gradient_End">#272626</color>
+    <color name="email">#FF9BA6A6</color>
+    <color name="background9">#171616</color>
+
+    <string-array name="colors" translatable="false">
+        <item>#009688</item>
+        <item>#05688A</item>
+        <item>#0939EA</item>
+        <item>#F43F06</item>
+        <item>#669900</item>
+        <item>#5D05FA</item>
+        <item>#cc0000</item>
+        <item>#ae6b23</item>
+        <item>#ff8800</item>
+        <item>#e5ae4f</item>
+        <item>#ffbb33</item>
+        <item>#05F8DC</item>
+        <item>#AE09F4</item>
+
+    </string-array>
+
+
+
+
+</resources>

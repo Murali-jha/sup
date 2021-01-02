@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UpdateProfile">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/ToolbarUpdate"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            app:titleTextColor="@color/white"
+            android:background="@color/background1">
+
+        </androidx.appcompat.widget.Toolbar>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/ivProfileUpdate"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:civ_border_width="2dp"
+                app:civ_border_color="@color/background1"
+                android:outlineAmbientShadowColor="@color/black"
+                android:outlineSpotShadowColor="@color/black"
+                android:elevation="15dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintVertical_bias="0.207"
+                app:srcCompat="@drawable/loading" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="15dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="260dp"
+                android:layout_marginRight="260dp"
+                android:layout_marginLeft="10dp"
+                android:fontFamily="sans-serif-light"
+                android:text="Username "
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+            <EditText
+                android:id="@+id/etNameUpdate"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:ems="10"
+                android:hint="Username"
+                android:layout_below="@+id/tv2"
+                android:layout_marginTop="10dp"
+                android:inputType="textPersonName"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:paddingLeft="15dp"
+                android:background="@drawable/btn_updateprofile"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintVertical_bias="0.1" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="18dp">
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="263dp"
+                android:layout_marginRight="263dp"
+                android:fontFamily="sans-serif-light"
+                android:text="Semester"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/etSemesterUpdate"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:layout_below="@+id/tv1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_updateprofile"
+                android:ems="10"
+                android:hint="Semester"
+                android:inputType="number"
+                android:paddingLeft="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintVertical_bias="0.117" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="287dp"
+                android:layout_marginRight="287dp"
+                android:fontFamily="sans-serif-light"
+                android:text="Email"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/etEmailUpdate"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:ems="10"
+                android:hint="Email"
+                android:paddingLeft="15dp"
+                android:layout_below="@+id/tv3"
+                android:layout_marginTop="10dp"
+                android:inputType="textEmailAddress"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                android:background="@drawable/btn_updateprofile"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintVertical_bias="0.072" />
+
+        </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="273dp"
+                android:layout_marginRight="273dp"
+                android:fontFamily="sans-serif-light"
+                android:text="Branch"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <Spinner
+                android:id="@+id/spinnerSchool"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:paddingLeft="15dp"
+                android:layout_below="@+id/tv4"
+                android:layout_marginTop="10dp"
+                app:layout_constraintHorizontal_bias="0.504"
+                android:background="@drawable/btn_updateprofile"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintVertical_bias="0.619" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="230dp"
+                android:layout_marginRight="230dp"
+                android:fontFamily="sans-serif-light"
+                android:text="Academic Year"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <Spinner
+                android:id="@+id/spinnerYear"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:paddingLeft="15dp"
+                android:layout_below="@+id/tv5"
+                android:layout_marginTop="10dp"
+                app:layout_constraintHorizontal_bias="0.504"
+                android:background="@drawable/btn_updateprofile"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintVertical_bias="0.619" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="276dp"
+                android:layout_marginRight="276dp"
+                android:fontFamily="sans-serif-light"
+                android:text="Section"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <Spinner
+                android:id="@+id/spinnerSection"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_below="@+id/tv6"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_updateprofile"
+                android:paddingLeft="15dp"
+                app:layout_constraintHorizontal_bias="0.504"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintVertical_bias="0.619" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="260dp"
+                android:layout_marginRight="260dp"
+                android:fontFamily="sans-serif-light"
+                android:text="University"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <Spinner
+                android:id="@+id/spinnerCollege"
+                android:layout_width="308dp"
+                android:layout_height="46dp"
+                android:layout_centerHorizontal="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_below="@+id/tv7"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_updateprofile"
+                android:paddingLeft="15dp"
+                app:layout_constraintHorizontal_bias="0.504"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintVertical_bias="0.619" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btnSave"
+                android:layout_width="142dp"
+                android:layout_height="47dp"
+                android:layout_marginBottom="68dp"
+                android:background="@drawable/btn_shape"
+                android:bottomLeftRadius="20dp"
+                android:bottomRightRadius="20dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Update"
+                android:textAllCaps="false"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/cardview_light_background"
+                android:topLeftRadius="20dp"
+                android:topRightRadius="20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,569 @@
+<resources>
+    <string name="app_name">Sup</string>
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Syllabus</item>
+        <item>Faculty</item>
+        <item>Calender</item>
+        <item>Resources</item>
+
+    </string-array>
+    <string-array name="Description">
+        <item>Get to know the classes,only a click away and get rid of fussy excel timetable</item>
+        <item>The brief syllabus of every subject well organized only for you</item>
+        <item>Which teacher is she?What is that professor contact number?We have this as well </item>
+        <item>When Is Exams?Last day of classes?Holidays?Everything here for You</item>
+        <item>Get the study materials,extra info,all in one place</item>
+
+    </string-array>
+
+
+    <string-array name="School">
+        <item>BTech,Cs/Cse</item>
+        <item>BTech,Mech.</item>
+        <item>BBA(Gen)</item>
+        <item>BBA(KPMG)</item>
+        <item>BBA</item>
+        <item>BA-LLB</item>
+        <item>BBA-LLB</item>
+        <item>BCom</item>
+    </string-array>
+
+    <string-array name="University">
+        <item>BML Munjal University</item>
+        <item>GITAM University</item>
+    </string-array>
+
+    <string-array name="Sem">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="user">
+        <item>Section A</item>
+        <item>Section B</item>
+    </string-array>
+
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+
+    </string-array>
+
+    <string-array name="MondaySecA">
+        <item>Environmental Studies\n  </item>
+        <item>Linear Algebra\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Automation and Industry 4.0\n  </item>
+        <item>Linear Algebra-\nTutorial[Group-1]\n  </item>
+        <item>Linear Algebra-\nTutorial[Group-2]\n  </item>
+    </string-array>
+    <string-array name="TuesdaySecA">
+        <item>Linear Algebra\n  </item>
+        <item>Introduction to Sensors \nand IoT\n  </item>
+        <item>Engineering Graphics\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Environmental Studies\n  </item>
+        <item>Coding Skills\n  </item>
+        <item>FDL and IOT Lab\n  </item>
+
+    </string-array>
+    <string-array name="WednesdaySecA">
+        <item>Automation and Industry 4.0\n  </item>
+        <item>Linear Algebra\n  </item>
+        <item>Introduction to Sensors \nand IoT\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Coding Skills\n  </item>
+        <item>Extra Curricular\n  </item>
+        <item>All Faculty Meeting\n  </item>
+
+    </string-array>
+    <string-array name="ThursdaySecA">
+        <item>Engineering Graphics Lab\n  </item>
+        <item>Introduction to Sensors \nand
+            IOT\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Environmental Studies Lab\n  </item>
+    </string-array>
+    <string-array name="FridaySecA">
+        <item>Introduction to Sensors \nand IoT Lab\n  </item>
+        <item>Linear Algebra\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Advance Programming Lab\n  </item>
+    </string-array>
+    <string-array name="SaturdaySecA">
+        <item>No Classes Scheduled for Today :)\n  </item>
+
+    </string-array>
+    <string-array name="SundaySecA">
+        <item>No Classes Scheduled for Today :)\n  </item>
+
+    </string-array>
+
+
+    <string-array name="MondaySecB">
+        <item>Environmental Studies\n Sec </item>
+        <item>Linear Algebra\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Automation and Industry 4.0\n  </item>
+        <item>Linear Algebra-\nTutorial[Group-1]\n  </item>
+        <item>Linear Algebra-\nTutorial[Group-2]\n  </item>
+    </string-array>
+    <string-array name="TuesdaySecB">
+        <item>Linear Algebra\n  </item>
+        <item>Introduction to Sensors \nand IoT\n  </item>
+        <item>Engineering Graphics\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Environmental Studies\n  </item>
+        <item>Coding Skills\n  </item>
+        <item>FDL and IOT Lab\n  </item>
+
+    </string-array>
+    <string-array name="WednesdaySecB">
+        <item>Automation and Industry 4.0\n  </item>
+        <item>Linear Algebra\n  </item>
+        <item>Introduction to Sensors \nand IoT\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Coding Skills\n  </item>
+        <item>Extra Curricular\n  </item>
+        <item>All Faculty Meeting\n  </item>
+
+    </string-array>
+    <string-array name="ThursdaySecB">
+        <item>Engineering Graphics Lab\n  </item>
+        <item>Introduction to Sensors \nand
+            IOT\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Environmental Studies Lab\n  </item>
+    </string-array>
+    <string-array name="FridaySecB">
+        <item>Introduction to Sensors \nand IoT Lab\n  </item>
+        <item>Linear Algebra\n  </item>
+        <item>Lunch Break\n  </item>
+        <item>Advance Programming Lab\n  </item>
+    </string-array>
+    <string-array name="SaturdaySecB">
+        <item>No Classes Scheduled for Today :)\n  </item>
+
+    </string-array>
+    <string-array name="SundaySecB">
+        <item>No Classes Scheduled for Today :)\n  </item>
+
+    </string-array>
+
+
+    <string-array name="time1SecA">
+        <item>10:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+        <item>02:15pm-03:10pm</item>
+        <item>03:15pm-04:10pm</item>
+    </string-array>
+    <string-array name="time2SecA">
+        <item>09:15am-10:10am</item>
+        <item>10:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+        <item>02:15pm-03:10pm</item>
+        <item>03:15pm-05:10pm</item>
+    </string-array>
+    <string-array name="time3SecA">
+        <item>09:15am-10:10am</item>
+        <item>10:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+        <item>02:15pm-04:10pm</item>
+        <item>04:15pm-05:10pm</item>
+    </string-array>
+    <string-array name="time4SecA">
+        <item>09:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+    </string-array>
+    <string-array name="time5SecA">
+        <item>09:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-03:10pm</item>
+
+    </string-array>
+    <string-array name="time6SecA">
+        <item>--:--</item>
+
+    </string-array>
+    <string-array name="time7SecA">
+        <item>--:--</item>
+
+    </string-array>
+
+
+    <string-array name="time1SecB">
+        <item>10:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+        <item>02:15pm-03:10pm</item>
+        <item>03:15pm-04:10pm</item>
+    </string-array>
+    <string-array name="time2SecB">
+        <item>09:15am-10:10am</item>
+        <item>10:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+        <item>02:15pm-03:10pm</item>
+        <item>03:15pm-05:10pm</item>
+    </string-array>
+    <string-array name="time3SecB">
+        <item>09:15am-10:10am</item>
+        <item>10:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+        <item>02:15pm-04:10pm</item>
+        <item>04:15pm-05:10pm</item>
+    </string-array>
+    <string-array name="time4SecB">
+        <item>09:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-02:10pm</item>
+    </string-array>
+    <string-array name="time5SecB">
+        <item>09:15am-11:10am</item>
+        <item>11:15am-12:10pm</item>
+        <item>12:15pm-01:10pm</item>
+        <item>01:15pm-03:10pm</item>
+
+    </string-array>
+    <string-array name="time6SecB">
+        <item>--:--</item>
+
+    </string-array>
+    <string-array name="time7SecB">
+        <item>--:--</item>
+
+
+    </string-array>
+    <string-array name="SubjectsSecA">
+        <item>Automation and Industry 4.0</item>
+        <item>Coding Skills</item>
+        <item>Engineering Graphics</item>
+        <item>Environmental Studies</item>
+        <item>Introduction to sensors and IOT</item>
+        <item>Linear Algebra</item>
+        <item>FDL and IOT lab</item>
+        <item>Advanced Programming Lab</item>
+
+    </string-array>
+
+    <string-array name="SubjectsSecB">
+        <item>Automation and Industry 4.0Sec</item>
+        <item>Coding Skills</item>
+        <item>Engineering Graphics</item>
+        <item>Environmental Studies</item>
+        <item>Introduction to sensors and IOT</item>
+        <item>Linear Algebra</item>
+        <item>FDL and IOT lab</item>
+        <item>Advanced Programming Lab</item>
+
+    </string-array>
+
+
+    <string-array name="Subject1">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject2">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject3">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject4">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject5">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject6">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject7">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject8">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Recommended Books</item>
+        <item>Other Books</item>
+    </string-array>
+
+
+    <string-array name="Subject1Sec">
+        <item>Not yet added...Stay tunedSec</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject2Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject3Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject4Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject5Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject6Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject7Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="Subject8Sec">
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+        <item>Not yet added...Stay tuned</item>
+    </string-array>
+    <string-array name="titlesSec">
+        <item>Unit1Sec</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Recommended Books</item>
+        <item>Other Books</item>
+    </string-array>
+
+
+    <string-array name="faculty_name_SecA">
+        <item>Faculty1</item>
+        <item>Faculty2</item>
+        <item>Faculty3</item>
+        <item>Faculty4</item>
+        <item>Faculty5</item>
+        <item>Faculty6</item>
+        <item>Faculty7</item>
+    </string-array>
+
+
+    <string-array name="faculty_name_SecB">
+        <item>Faculty1Sec</item>
+        <item>Faculty2Sec</item>
+        <item>Faculty3Sec</item>
+        <item>Faculty4Sec</item>
+        <item>Faculty5Sec</item>
+        <item>Faculty6Sec</item>
+        <item>Faculty7Sec</item>
+    </string-array>
+
+
+    <string-array name="faculty1">
+        <item>9502574334</item>
+        <item>faculty1@gmailcom</item>
+        <item>001</item>
+        <item>Description1</item>
+    </string-array>
+    <string-array name="faculty2">
+        <item>9502374334</item>
+        <item>faculty2@gmailcom</item>
+        <item>002</item>
+        <item>Description2</item>
+    </string-array>
+    <string-array name="faculty3">
+        <item>8502574334</item>
+        <item>faculty3@gmailcom</item>
+        <item>003</item>
+        <item>Description3</item>
+    </string-array>
+    <string-array name="faculty4">
+        <item>9502774334</item>
+        <item>faculty4@gmailcom</item>
+        <item>004</item>
+        <item>Description4</item>
+    </string-array>
+    <string-array name="faculty5">
+        <item>9502574834</item>
+        <item>faculty5@gmailcom</item>
+        <item>005</item>
+        <item>Description5</item>
+    </string-array>
+    <string-array name="faculty6">
+        <item>9508574334</item>
+        <item>faculty6@gmailcom</item>
+        <item>006</item>
+        <item>Description6</item>
+    </string-array>
+    <string-array name="faculty7">
+        <item>9502574334</item>
+        <item>faculty7@gmailcom</item>
+        <item>007</item>
+        <item>Description7</item>
+    </string-array>
+
+
+    <string-array name="faculty1Sec">
+        <item>9502574334Sec</item>
+        <item>faculty1@gmailcom</item>
+        <item>001</item>
+        <item>Description1Sec</item>
+    </string-array>
+    <string-array name="faculty2Sec">
+        <item>9502374334Sec</item>
+        <item>faculty2@gmailcom</item>
+        <item>002</item>
+        <item>Description2Sec</item>
+    </string-array>
+    <string-array name="faculty3Sec">
+        <item>8502574334Sec</item>
+        <item>faculty3@gmailcom</item>
+        <item>003</item>
+        <item>Description3Sec</item>
+    </string-array>
+    <string-array name="faculty4Sec">
+        <item>9502774334Sec</item>
+        <item>faculty4@gmailcom</item>
+        <item>004</item>
+        <item>Description4Sec</item>
+    </string-array>
+    <string-array name="faculty5Sec">
+        <item>9502574834Sec</item>
+        <item>faculty5@gmailcom</item>
+        <item>005</item>
+        <item>Description5Sec</item>
+    </string-array>
+    <string-array name="faculty6Sec">
+        <item>9508574334Sec</item>
+        <item>faculty6@gmailcom</item>
+        <item>006</item>
+        <item>Description6Sec</item>
+    </string-array>
+    <string-array name="faculty7Sec">
+        <item>9502574334Sec</item>
+        <item>faculty7@gmailcom</item>
+        <item>007</item>
+        <item>Description7Sec</item>
+    </string-array>
+
+
+    <string-array name="Dashboard">
+        <item>profile</item>
+        <item>Help and support</item>
+    </string-array>
+
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+
+</resources>

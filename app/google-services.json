@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62107819955",
+    "firebase_url": "https://sup-74eaa.firebaseio.com",
+    "project_id": "sup-74eaa",
+    "storage_bucket": "sup-74eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62107819955:android:771bbf2343e33493d675c6",
+        "android_client_info": {
+          "package_name": "com.muralijha.sup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62107819955-aac36k882e98ibfp05u229dau54psi59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-0BWXaRSl-r39CXMLzCa-Q_X5JvSJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62107819955-aac36k882e98ibfp05u229dau54psi59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

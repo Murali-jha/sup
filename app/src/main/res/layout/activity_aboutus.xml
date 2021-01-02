@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grad_bg"
+    tools:context=".AboutusActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/ToolbarAboutUs"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        app:titleTextColor="@color/white"
+        android:background="@color/background1">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="18dp"
+        android:layout_below="@+id/ToolbarAboutUs"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:padding="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="‘Sup!’  App is specially designed to make the life of college students simple and also to update them academically.
+Sup! Consist features such as Time table  , Subjects ,Assignments, importantly the Details of the faculty , and many more.
+The extra-ordinary feature which keeps ‘Sup !’  apart from others , is updating students regarding the Functioning and Cancelation of  classes.
+"
+            android:textColor="@color/cardview_light_background"
+            android:layout_centerHorizontal="true"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.488"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

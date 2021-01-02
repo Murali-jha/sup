@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background6"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/ToolbarDayDetail"
+        android:layout_width="match_parent"
+        app:titleTextColor="@color/white"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/background1">
+
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_below="@+id/ToolbarDayDetail"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content">
+
+        <ListView
+            android:id="@+id/lvDayDetail"
+            android:layout_width="match_parent"
+
+            android:layout_height="658dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="2dp"
+            android:divider="@null"
+            android:dividerHeight="10dp">
+
+        </ListView>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="200dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:text="________">
+
+        </TextView>
+    </RelativeLayout>
+
+
+</LinearLayout>
+
+</ScrollView>
